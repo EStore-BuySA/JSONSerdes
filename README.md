@@ -21,7 +21,7 @@ repositories{
 dependancies{
     ...
     
-    implementation io.buysa.jsonserdes
+    implementation io.buysa.jsonserdes:1.5.20
 
     ...
 }
